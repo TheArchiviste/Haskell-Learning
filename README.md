@@ -17,10 +17,4 @@ Haskell is a purely functional programming language known for its strong type sy
 - [x] Type Classes and Type Inference
 
 ## 🛠️ Projects & Exercises
-As I progress, I will be working on the following:
-- ✅ Basic Arithmetic Operations
 - ✅ Functional Data Structures and Algorithms
-
-Happy coding! 😊
-
-
